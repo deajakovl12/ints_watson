@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d7090c</color>
+    <color name="colorPrimaryDark">#9c0f1d</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="my_message">#f54b70</color>
+    <color name="watson_message">#f1a8a9</color>
+</resources>
